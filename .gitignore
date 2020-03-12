@@ -1,2 +1,6 @@
+# Help me
 .idea/*
 .git/*
+.vs/*
+obj/*
+bin/*
